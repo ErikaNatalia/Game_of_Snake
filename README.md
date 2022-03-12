@@ -5,6 +5,7 @@
 Snake game is fun, our parents played this when they were childs if they had a Nokia, and this project is a try of this
 
 # How to run this project?
+Before of all you should have Python then 👇
 
 - Just clone this repo and in the console write py main.py
 - Then the game start!
